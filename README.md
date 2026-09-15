@@ -10,4 +10,7 @@ Activity 2:
 
 <img width="742" height="158" alt="image" src="https://github.com/user-attachments/assets/a531d95c-101a-4578-9c3b-ca5e387ee8ec" />
 
+Activity 3:
+
+<img width="675" height="587" alt="image" src="https://github.com/user-attachments/assets/961b049c-3221-4566-889f-4dc7d02708e2" />
 
